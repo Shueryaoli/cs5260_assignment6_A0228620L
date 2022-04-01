@@ -8,3 +8,6 @@
 4. Write your code (either adapt provided code or start form scratch) to train LeNet5 on MNIST with two learning rate scheduling methods you choose and proposed learning rate. A suggested epoch number is 30.
 
      Code in folder: lr_scheduler
+     
+     
+All code is run through colab.
